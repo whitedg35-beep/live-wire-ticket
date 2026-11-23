@@ -32,3 +32,10 @@ Set by Garrett Whited. The backboard is the one board everything plugs into. It 
 
 - Before anything goes out, the licensing is in the piece AND the disclaimer link rides with the send: https://github.com/whitedg35-beep/live-wire-ticket/blob/main/LICENSE
 - A board with no ticket on top does not ship. A piece with no licensing does not ship.
+
+## 6. Per-Point Dressing (Garrett, Nov 23)
+
+- One box system for every point. **Each office point has its own box, set to its own realm** — its schema and its sign.
+- Evie's point is **the gym**: GymFlow schema (purple + black), the No. 0006 medal coin, gym signage.
+- No. 0002's point is the Wire (Leonida); No. 0001's is the AI Office; and so forth down the registry (Exact Schema §2).
+- The anatomy never changes — ticket on top, coin in the slot, piece in the window, registry rail, licensing base. What changes per point: the scheme mask, the coin, the sign, and the realm the box is dressed for.
