@@ -61,3 +61,4 @@ Every piece we SEND OUT carries the licensing **in the piece itself** — we are
   **© 2026 Bumkus / Vice City Wire**
   **Licensed, never sold. Use requires written permission.**
 - The caption carries the same line (Section 7). Slate + caption, both, every send.
+- **The disclaimer link rides with every send** (Garrett, Nov 23): every outbound piece is sent with the link to the house licensing framework — https://github.com/whitedg35-beep/live-wire-ticket/blob/main/LICENSE — in the message/caption with it. **Gate: before anything goes out, the licensing is in the piece AND the disclaimer link is with it. No exceptions.**
